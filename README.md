@@ -9,7 +9,7 @@
 
 ***Топология сети***
 
-![alt text](./ovpn-topology.png)
+![alt text](./network_map.png)
 
 **Выполнение задания**
 
